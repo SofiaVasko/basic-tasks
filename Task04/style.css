@@ -1,0 +1,358 @@
+header {
+  width: 100%;
+  height: 500px;
+  background: #ed4c5c;
+  position: relative;
+}
+
+.header_title {
+  font-family: "Lato", sans-serif;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 43px;
+  width: 445px;
+  height: 107px;
+  text-align: left;
+  vertical-align: top;
+  padding-left: 165px;
+  padding-top: 122px;
+  padding-bottom: 10px;
+  padding-right: 0px;
+  color: #ffffff;
+}
+
+.header_p {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: justify;
+  vertical-align: top;
+  width: 445px;
+  height: 64px;
+  padding-left: 165px;
+  padding-right: 0px;
+  color: #ffffff;
+}
+
+.header_icon {
+  width: 32px;
+  height: 32px;
+  padding-left: 165px;
+  padding-top: 40px;
+  padding-bottom: 111px;
+}
+
+.header_icons {
+  width: 32px;
+  height: 32px;
+  padding-left: 23px;
+  padding-top: 40px;
+  padding-bottom: 111px;
+}
+
+.header_photo {
+  width: 533;
+  height: 311px;
+  border-radius: 15px;
+  position: absolute;
+  top: 94px;
+  right: 216px;
+  bottom: 95px;
+  left: 691px;
+}
+
+main {
+  width: 100%;
+  height: 500px;
+  background: #ffffff;
+  position: relative;
+}
+
+.main_title {
+  font-family: "Lato", sans-serif;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 43px;
+  width: 445px;
+  height: 107px;
+  text-align: left;
+  vertical-align: top;
+  padding-left: 176px;
+  padding-top: 102px;
+  margin: 0;
+  padding-bottom: 0px;
+  color: #000000;
+}
+
+.main_p {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: justify;
+  vertical-align: top;
+  width: 434px;
+  height: 64px;
+  padding-left: 176px;
+  color: #000000;
+}
+
+.first_name {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  vertical-align: top;
+  width: 255px;
+  height: 60px;
+  position: absolute;
+  top: 117px;
+  right: 450px;
+  bottom: 323px;
+  left: 735px;
+  border-color: 333333;
+  color: rgba(19, 39, 67, 0.5);
+}
+
+.last_name {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  vertical-align: top;
+  width: 255px;
+  height: 60px;
+  position: absolute;
+  top: 117px;
+  right: 165px;
+  bottom: 323px;
+  left: 1020px;
+  border-color: 333333;
+  color: rgba(19, 39, 67, 0.5);
+}
+
+.phone_number {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  vertical-align: top;
+  width: 540px;
+  height: 60px;
+  position: absolute;
+  top: 201px;
+  right: 165px;
+  bottom: 239px;
+  left: 735px;
+  border-color: 333333;
+  color: rgba(19, 39, 67, 0.5);
+}
+
+.select {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  vertical-align: top;
+  width: 540px;
+  height: 60px;
+  position: absolute;
+  top: 285px;
+  right: 165px;
+  bottom: 155px;
+  left: 735px;
+  border-color: 333333;
+  color: rgba(19, 39, 67, 0.5);
+}
+
+.submit {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  vertical-align: top;
+  width: 160px;
+  height: 50px;
+  position: absolute;
+  top: 372px;
+  right: 545px;
+  bottom: 78px;
+  left: 735px;
+  border-color: #ed4c5c;
+  background-color: #ed4c5c;
+  color: #ffffff;
+}
+
+footer {
+  width: 100%;
+  height: 500px;
+  background: #fafafa;
+  position: relative;
+}
+
+.address {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  width: 65px;
+  height: 22px;
+  text-align: center;
+  vertical-align: top;
+  padding-left: 166px;
+  padding-top: 85px;
+  padding-bottom: 33px;
+  color: #101010;
+}
+
+.footer_address {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 8px;
+  text-align: left;
+  vertical-align: top;
+  width: 254px;
+  padding-left: 166px;
+  color: #101010;
+}
+
+.services {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  width: 65px;
+  height: 22px;
+  text-align: center;
+  vertical-align: top;
+  left: 450px;
+  top: 70px;
+  right: 923px;
+  bottom: 328px;
+  color: #101010;
+  position: absolute;
+}
+
+.services-items {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 8px;
+  text-align: left;
+  vertical-align: top;
+  width: 254px;
+  height: 114px;
+  left: 450px;
+  top: 135px;
+  right: 736px;
+  bottom: 186px;
+  color: #101010;
+  position: absolute;
+}
+
+.contact {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  width: 101px;
+  height: 22px;
+  text-align: center;
+  vertical-align: top;
+  left: 734px;
+  top: 70px;
+  right: 605px;
+  bottom: 328px;
+  color: #101010;
+  position: absolute;
+}
+
+.mail {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: left;
+  vertical-align: top;
+  width: 122px;
+  left: 734px;
+  top: 140px;
+  right: 584px;
+  bottom: 281px;
+  color: #101010;
+  position: absolute;
+}
+
+.number {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: left;
+  vertical-align: top;
+  width: 96px;
+  left: 734px;
+  top: 165px;
+  right: 610px;
+  bottom: 256px;
+  color: #121212;
+  position: absolute;
+}
+
+.social_network {
+  width: 66px;
+  height: 14px;
+  left: 734px;
+  top: 199px;
+  right: 640px;
+  bottom: 222px;
+  position: absolute;
+}
+
+.bank {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  width: 99px;
+  height: 22px;
+  text-align: center;
+  vertical-align: top;
+  left: 1022px;
+  top: 70px;
+  right: 322;
+  bottom: 328px;
+  color: #101010;
+  position: absolute;
+}
+
+.bank_card {
+  width: 216px;
+  height: 31px;
+  left: 1028px;
+  top: 140px;
+  right: 196px;
+  bottom: 264px;
+  position: absolute;
+}
+
+.copyright {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: left;
+  vertical-align: top;
+  width: 155px;
+  height: 14px;
+  padding-left: 161px;
+  padding-top: 141px;
+  color: #101010;
+}

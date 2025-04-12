@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+body > h2, .basic-list, .advanced, .advanced-list {
+  color: rgb(255, 239, 10);
+}
+
+body > h2, .advanced {
+  margin-left: 88px;
+  margin-bottom: 6px;
+}
+
+.advanced {
+  margin-top: 42px;
+}
+
+.basic-list, .advanced-list {
+  margin: auto;
+}
